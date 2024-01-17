@@ -19,8 +19,6 @@ This is a simple implementation of a Tic-Tac-Toe game in Python with an AI playe
    
 4.Follow the prompts to make your moves.
 
-## Credits
-Surya 
+## Releases
 
-## License
-This project is licensed under the MIT License. 
+- [Latest Release](https://github.com/SuryaBharathi310/Tic-Tac-Toe-game-with-AI-Player/releases/latest)

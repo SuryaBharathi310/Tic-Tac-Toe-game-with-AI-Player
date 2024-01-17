@@ -10,8 +10,8 @@ This is a simple implementation of a Tic-Tac-Toe game in Python with an AI playe
    git clone https://github.com/SuryaBharathi310/Tic-Tac-Toe-game-with-AI-Player.git
 
 2. Navigate to the project directory:
-```bash
-cd \your-directory
+   ```bash
+   cd \your-directory
 
 
 

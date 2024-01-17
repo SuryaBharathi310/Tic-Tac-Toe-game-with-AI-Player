@@ -12,8 +12,15 @@ This is a simple implementation of a Tic-Tac-Toe game in Python with an AI playe
 2. Navigate to the project directory:
    ```bash
    cd \your-directory
+   
+3. Run the game:
+   ```bash
+   python tic_tac_toe_with_AI_player.py
+   
+4.Follow the prompts to make your moves.
 
+## Credits
+Surya 
 
-
-
-
+## License
+This project is licensed under the MIT License. 

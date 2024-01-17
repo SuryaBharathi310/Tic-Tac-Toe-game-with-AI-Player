@@ -7,4 +7,4 @@ This is a simple implementation of a Tic-Tac-Toe game in Python with an AI playe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SuryaBharathi310/tic-tac-toe-python.git
+   git clone https://github.com/SuryaBharathi310/Tic-Tac-Toe-game-with-AI-Player.git
